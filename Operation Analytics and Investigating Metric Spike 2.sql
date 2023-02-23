@@ -1,5 +1,4 @@
 
-SELECT * FROM `operation analytics and investigating metric spike 1`;
 
  --  1) Calculate the number of jobs reviewed per hour per day for November 2020?
  
